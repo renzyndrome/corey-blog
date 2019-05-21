@@ -1,1 +1,1 @@
-web: gunicorn django_project.wsgi 
+web: gunicorn HerokuBoothie.wsgi --pythonpath ../HerokuBoothie --log-file -
