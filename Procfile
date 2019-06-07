@@ -1,1 +1,0 @@
-web: gunicorn HerokuBoothie.wsgi --pythonpath ../HerokuBoothie --log-file -
