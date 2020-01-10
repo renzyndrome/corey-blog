@@ -4,16 +4,23 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-
 autopep8 = "*"
 
 [packages]
-django = "*"
-django-crispy-forms = "*"
+django-crispy-forms = "==1.7.2"
 gunicorn = "==19.9.0"
 whitenoise = "==3.3.1"
-pillow = "*"
-
+autopep8 = "==1.4.4"
+click = "==7.0"
+image = "==1.5.27"
+pycodestyle = "==2.5.0"
+pyparsing = "==2.4.0"
+pytz = "==2019.1"
+sqlparse = "==0.3.0"
+svgwrite = "==1.2.1"
+Django = "==2.2.1"
+Pillow = "==6.0.0"
+Tree = "==0.2.4"
 
 [requires]
 python_version = "3.7"
