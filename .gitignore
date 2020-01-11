@@ -140,3 +140,4 @@ dmypy.json
 
 .vscode
 .DS_Store
+posts.json
