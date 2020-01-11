@@ -23,6 +23,7 @@ Pillow = "==6.0.0"
 Tree = "==0.2.4"
 boto3 = "*"
 django-storages = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.7"
